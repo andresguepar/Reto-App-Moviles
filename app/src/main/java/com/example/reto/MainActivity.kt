@@ -59,7 +59,7 @@ fun ButtonCounter() {
             Button(
                 onClick = { counter++ }
             ) {
-                Text("Presióname")
+                Text("Presióname :D")
             }
         }
     }
